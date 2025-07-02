@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CH SHIVA PRASAD | Cybersecurity Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <h1>CH SHIVA PRASAD</h1>
+    <p>Cybersecurity Learner & Python Developer</p>
+    <a href="#about" class="btn">Explore My Work</a>
+  </header>
+
+  <section id="about">
+    <div class="container">
+      <h2>About <span>Me</span></h2>
+      <p>I'm CH SHIVA PRASAD, a <strong>3rd-year Computer Science student</strong> with a deep interest in <strong>Cybersecurity</strong> and <strong>Python development</strong>. I continuously push myself to stay up to date with modern technologies. My passion lies in understanding systems, identifying vulnerabilities, and solving problems in a smart and effective way.</p>
+    </div>
+  </section>
+
+  <section id="skills">
+    <div class="container">
+      <h2>My <span>Key Skills</span></h2>
+      <ul>
+        <li><strong>Cybersecurity Fundamentals:</strong> Understanding systems, vulnerabilities, and secure practices.</li>
+        <li><strong>Python Programming:</strong> Automation, scripting, and logical problem-solving.</li>
+        <li><strong>Modern Problem Solving:</strong> Analytical and adaptable approaches.</li>
+        <li><strong>Fast & Self-Learning:</strong> Quickly learning and applying new technologies.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="events">
+    <div class="container">
+      <h2><span>Hackathons & Workshops</span></h2>
+      <p>To continuously improve my skills and remain up to date with modern technology, I’ve participated in numerous <strong>hackathons</strong> and <strong>technical workshops</strong>. These experiences have sharpened my problem-solving ability, expanded my knowledge, and connected me with the tech community.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Get in <span>Touch</span></h2>
+      <p><i class="fas fa-envelope"></i> <a href="mailto:shivaprasad090805@gmail.com">shivaprasad090805@gmail.com</a></p>
+      <p><i class="fas fa-map-marker-alt"></i> India</p>
+      <p><i class="fab fa-github"></i> <a href="https://github.com/shivaprasad090805" target="_blank">GitHub Profile</a></p>
+      <p><i class="fab fa-linkedin"></i> <a href="https://linkedin.com/in/shivaprasad090805" target="_blank">LinkedIn Profile</a></p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 CH SHIVA PRASAD | Cybersecurity & Python Portfolio</p>
+    <p>
+      <a href="https://github.com/shivaprasad090805" target="_blank"><i class="fab fa-github"></i></a>
+      &nbsp;
+      <a href="https://linkedin.com/in/shivaprasad090805" target="_blank"><i class="fab fa-linkedin"></i></a>
+    </p>
+  </footer>
+</body>
+</html>
+
